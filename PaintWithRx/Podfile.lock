@@ -1,0 +1,35 @@
+PODS:
+  - MBProgressHUD (1.1.0)
+  - RxCocoa (3.2.0):
+    - RxSwift (~> 3.1)
+  - RxDataSources (1.0.4):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.2.0)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.0)
+  - RxCocoa (~> 3.2.0)
+  - RxDataSources (~> 1.0.3)
+  - RxSwift (~> 3.2.0)
+  - SnapKit (~> 3.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MBProgressHUD
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  RxCocoa: ccdf43101a70407097a29082f648ba1676075b30
+  RxDataSources: b3389acc5fe2eefb8fcd81a2b76a876ad08bc82a
+  RxSwift: 46574f70d416b7923c237195939cc488a7fbf3a0
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: e08ac40334170a18fb665a8affbe7639c090bcd6
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module Pods_PaintWithRx {
+  umbrella header "Pods-PaintWithRx-umbrella.h"
+
+  export *
+  module * { export * }
+}
